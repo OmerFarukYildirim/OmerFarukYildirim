@@ -24,9 +24,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/OmerFarukYildirim/OmerFarukYildirim/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmerFarukYildirim&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="OmerFarukYildirim" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkus/CagatayAkkus/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedIkbalAKGUNDOGDU&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="MuhammedIkbalAKGUNDOGDU" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -37,9 +37,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/OmerFarukYildirim/OmerFarukYildirim/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerFarukYildirim&theme=material-palenight&hide_border=false" alt="OmerFarukYildirim" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkus/CagatayAkkus/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedIkbalAKGUNDOGDU&theme=material-palenight&hide_border=false" alt="MuhammedIkbalAKGUNDOGDU" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
  
@@ -51,11 +51,28 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/OmerFarukYildirim/OmerFarukYildirim/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukYildirim&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="OmerFarukYildirim" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkus/CagatayAkkus/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedIkbalAKGUNDOGDU&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammedIkbalAKGUNDOGDU" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
  
 
 ![snake gif](https://github.com/OmerFarukYildirim/OmerFarukYildirim/blob/output/github-contribution-grid-snake.gif)
