@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=400&section=header&text=Ömer%20Faruk%20YILDIRIM&fontSize=90&fontAlignY=35&desc=Architecting%20Web%20And%20Mobile%20Systems&descAlignY=51&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Ömer%20Faruk%20YILDIRIM&fontSize=80&fontAlignY=35&desc=Architecting%20Web%20And%20Mobile%20Systems&descAlignY=51&descSize=20&animation=fadeIn)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cTFkYW9rZWluczEwZ3F6dTh3ZzZkcjJ2ZXFnNTMzcXl5aDc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="500">
 
